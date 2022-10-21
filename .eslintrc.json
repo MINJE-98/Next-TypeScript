@@ -86,5 +86,5 @@
       "version": "detect"
     }
   },
-  "ignorePatterns": ["node_modules/", ".next/*", "*.config.js"]
+  "ignorePatterns": ["node_modules/", ".next/*", "*.config.js", "*.d.ts"]
 }
