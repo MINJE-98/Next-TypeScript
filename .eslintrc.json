@@ -68,6 +68,7 @@
         }
       }
     ],
+    "import/no-extraneous-dependencies": ["off", { "ignore": ["twin.macro"] }],
     "react/no-unknown-property": ["off", { "ignore": ["css", "tw"] }],
     "import/no-cycle": "off",
     "no-console": "warn",
